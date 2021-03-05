@@ -15,6 +15,15 @@ with 'TablesRole::Source::CSVDATA';
 
 L<https://www.talkenglish.com/vocabulary/top-500-adjectives.aspx>
 
+L<Tables::Words::EN::Nouns::TalkEnglish>,
+L<Tables::Words::EN::Adverbs::TalkEnglish>
+
+Other C<Tables::Words::EN::Adjectives::*> modules.
+
+L<Tables>
+
+=cut
+
 __DATA__
 word,frequency
 different,215
